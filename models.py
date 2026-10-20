@@ -1,3 +1,9 @@
+"""
+***** File Integrity Watcher *****
+Auteur : Adrien RICQUE
+Description : 
+"""
+
 from pathlib import Path
 from typing import Literal
 from dataclasses import dataclass

@@ -33,3 +33,10 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# tests
+*.txt
+*.bin
+*.log
+watched/*
+*.json
