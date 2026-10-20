@@ -1,0 +1,35 @@
+# IDE things ----------------------------------
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Cache VSCode
+.vscode/
+.idea/
+
+
+# APPLICATION things ----------------------------------
+# Potentials token
+*.env
+
+# Virtual environments
+.venv/
+venv/*
+
+# Tests and quality
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.pre-commit-config.yaml
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
